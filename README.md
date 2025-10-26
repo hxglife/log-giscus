@@ -1,2 +1,2 @@
 # log-giscus
-giscus app for index repository
+giscus app for blog repository
